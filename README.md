@@ -1,7 +1,7 @@
 # build_scripts_tulip
 Redmi Note 6 Pro(Tulip) Build Scripts
 
-## YAAP Tulip Build Instructions
+## Tulip Build Instructions
 
 #### Prerequisites
 Install the necessary dependencies:
@@ -22,5 +22,5 @@ crave run --clean --no-patch -- "curl -v https://raw.githubusercontent.com/DarkK
 
 • YAAP
 ```
-crave run --clean --no-patch "curl https://raw.githubusercontent.com/DarkKiller28/build_scripts_tulip/main/yaap_a15.sh | bash"
+crave run --clean --no-patch "curl -v https://raw.githubusercontent.com/DarkKiller28/build_scripts_tulip/main/yaap_a15.sh | bash"
 ```
